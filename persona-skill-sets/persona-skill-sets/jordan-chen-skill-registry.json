@@ -19,55 +19,55 @@
       "name": "prompt-engineer",
       "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
       "model": "opus",
-      "file_path": "prompt-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
     },
     {
       "name": "persona-creator",
       "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
       "model": "opus",
-      "file_path": "persona-creator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
     },
     {
       "name": "context-manager",
       "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
       "model": "sonnet",
-      "file_path": "context-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "business-analyst",
       "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
       "model": "sonnet",
-      "file_path": "business-analyst.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
     },
     {
       "name": "observability-engineer",
       "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
       "model": "opus",
-      "file_path": "observability-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
     },
     {
       "name": "error-detective",
       "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
       "model": "sonnet",
-      "file_path": "error-detective.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
     },
     {
       "name": "risk-manager",
       "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
       "model": "opus",
-      "file_path": "risk-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
     }
   ],
   "model_distribution": {

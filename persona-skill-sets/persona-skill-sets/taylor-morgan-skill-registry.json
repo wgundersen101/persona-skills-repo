@@ -19,91 +19,91 @@
       "name": "python-pro",
       "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
       "model": "sonnet",
-      "file_path": "python-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
     },
     {
       "name": "javascript-pro",
       "description": "Master modern JavaScript with ES2024+ features, async patterns, and runtime optimization. Handles Node.js, Deno, and browser environments. Use PROACTIVELY for JavaScript development.",
       "model": "sonnet",
-      "file_path": "javascript-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/javascript-pro.md"
     },
     {
       "name": "typescript-pro",
       "description": "Master TypeScript with advanced types, generics, and strict type safety. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
       "model": "sonnet",
-      "file_path": "typescript-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/typescript-pro.md"
     },
     {
       "name": "fastapi-pro",
       "description": "Build high-performance FastAPI applications with async patterns, type safety, and automatic OpenAPI docs. Masters Pydantic and dependency injection. Use PROACTIVELY for FastAPI development.",
       "model": "sonnet",
-      "file_path": "fastapi-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/fastapi-pro.md"
     },
     {
       "name": "ai-engineer",
       "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
       "model": "opus",
-      "file_path": "ai-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
     },
     {
       "name": "context-manager",
       "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
       "model": "sonnet",
-      "file_path": "context-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
     },
     {
       "name": "prompt-engineer",
       "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
       "model": "opus",
-      "file_path": "prompt-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
     },
     {
       "name": "api-documenter",
       "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
       "model": "haiku",
-      "file_path": "api-documenter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
     },
     {
       "name": "backend-architect",
       "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
       "model": "opus",
-      "file_path": "backend-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
     },
     {
       "name": "database-optimizer",
       "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
       "model": "sonnet",
-      "file_path": "database-optimizer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
     },
     {
       "name": "debugger",
       "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
       "model": "sonnet",
-      "file_path": "debugger.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
     },
     {
       "name": "error-detective",
       "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
       "model": "sonnet",
-      "file_path": "error-detective.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     },
     {
       "name": "deployment-engineer",
       "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
       "model": "sonnet",
-      "file_path": "deployment-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
     },
     {
       "name": "devops-troubleshooter",
       "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
       "model": "sonnet",
-      "file_path": "devops-troubleshooter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
     }
   ],
   "model_distribution": {

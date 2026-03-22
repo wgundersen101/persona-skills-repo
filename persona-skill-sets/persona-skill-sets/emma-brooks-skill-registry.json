@@ -19,55 +19,55 @@
       "name": "content-marketer",
       "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
       "model": "haiku",
-      "file_path": "content-marketer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
     },
     {
       "name": "seo-authority-builder",
       "description": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
       "model": "sonnet",
-      "file_path": "seo-authority-builder.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-authority-builder.md"
     },
     {
       "name": "seo-content-auditor",
       "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations. Use PROACTIVELY for content review.",
       "model": "sonnet",
-      "file_path": "seo-content-auditor.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-auditor.md"
     },
     {
       "name": "seo-content-writer",
       "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
       "model": "sonnet",
-      "file_path": "seo-content-writer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-writer.md"
     },
     {
       "name": "seo-content-planner",
       "description": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
       "model": "haiku",
-      "file_path": "seo-content-planner.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-planner.md"
     },
     {
       "name": "search-specialist",
       "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
       "model": "haiku",
-      "file_path": "search-specialist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "sales-automator",
       "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
       "model": "haiku",
-      "file_path": "sales-automator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
     }
   ],
   "model_distribution": {

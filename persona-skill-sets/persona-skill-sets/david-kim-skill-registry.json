@@ -19,61 +19,61 @@
       "name": "test-automator",
       "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
       "model": "sonnet",
-      "file_path": "test-automator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
     },
     {
       "name": "tdd-orchestrator",
       "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
       "model": "opus",
-      "file_path": "tdd-orchestrator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
     },
     {
       "name": "debugger",
       "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
       "model": "sonnet",
-      "file_path": "debugger.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
     },
     {
       "name": "error-detective",
       "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
       "model": "sonnet",
-      "file_path": "error-detective.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     },
     {
       "name": "code-reviewer",
       "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
       "model": "sonnet",
-      "file_path": "code-reviewer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
     },
     {
       "name": "api-documenter",
       "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
       "model": "haiku",
-      "file_path": "api-documenter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "devops-troubleshooter",
       "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
       "model": "sonnet",
-      "file_path": "devops-troubleshooter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
     }
   ],
   "model_distribution": {

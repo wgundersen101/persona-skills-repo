@@ -19,91 +19,91 @@
       "name": "backend-architect",
       "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
       "model": "opus",
-      "file_path": "backend-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
     },
     {
       "name": "architect-review",
       "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
       "model": "opus",
-      "file_path": "architect-review.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
     },
     {
       "name": "java-pro",
       "description": "Write enterprise Java with Spring Boot, modern JDK features, and reactive programming. Masters JVM optimization and microservices. Use PROACTIVELY for Java development.",
       "model": "sonnet",
-      "file_path": "java-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/java-pro.md"
     },
     {
       "name": "python-pro",
       "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
       "model": "sonnet",
-      "file_path": "python-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
     },
     {
       "name": "ai-engineer",
       "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
       "model": "opus",
-      "file_path": "ai-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
     },
     {
       "name": "ml-engineer",
       "description": "Build and deploy production ML systems with model training, optimization, and serving. Masters MLOps workflows and feature engineering. Use PROACTIVELY for ML engineering.",
       "model": "opus",
-      "file_path": "ml-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ml-engineer.md"
     },
     {
       "name": "prompt-engineer",
       "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
       "model": "opus",
-      "file_path": "prompt-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
     },
     {
       "name": "context-manager",
       "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
       "model": "sonnet",
-      "file_path": "context-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
     },
     {
       "name": "graphql-architect",
       "description": "Design efficient GraphQL APIs with schema design, resolvers, and performance optimization. Masters federation and real-time subscriptions. Use PROACTIVELY for GraphQL architecture.",
       "model": "sonnet",
-      "file_path": "graphql-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/graphql-architect.md"
     },
     {
       "name": "database-optimizer",
       "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
       "model": "sonnet",
-      "file_path": "database-optimizer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     },
     {
       "name": "security-auditor",
       "description": "Conduct security audits with vulnerability assessment, penetration testing guidance, and compliance review. Masters OWASP and security frameworks. Use PROACTIVELY for security audits.",
       "model": "opus",
-      "file_path": "security-auditor.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/security-auditor.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "legacy-modernizer",
       "description": "Modernize legacy systems with incremental refactoring, strangler fig pattern, and technology migration. Handles risk assessment and team enablement. Use PROACTIVELY for legacy modernization.",
       "model": "sonnet",
-      "file_path": "legacy-modernizer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legacy-modernizer.md"
     }
   ],
   "model_distribution": {

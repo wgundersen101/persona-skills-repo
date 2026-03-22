@@ -19,97 +19,97 @@
       "name": "python-pro",
       "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
       "model": "sonnet",
-      "file_path": "python-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
     },
     {
       "name": "fastapi-pro",
       "description": "Build high-performance FastAPI applications with async patterns, type safety, and automatic OpenAPI docs. Masters Pydantic and dependency injection. Use PROACTIVELY for FastAPI development.",
       "model": "sonnet",
-      "file_path": "fastapi-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/fastapi-pro.md"
     },
     {
       "name": "ai-engineer",
       "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
       "model": "opus",
-      "file_path": "ai-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
     },
     {
       "name": "ml-engineer",
       "description": "Build and deploy production ML systems with model training, optimization, and serving. Masters MLOps workflows and feature engineering. Use PROACTIVELY for ML engineering.",
       "model": "opus",
-      "file_path": "ml-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ml-engineer.md"
     },
     {
       "name": "mlops-engineer",
       "description": "Design MLOps infrastructure with model versioning, experiment tracking, and automated pipelines. Masters Kubeflow, MLflow, and feature stores. Use PROACTIVELY for MLOps design.",
       "model": "opus",
-      "file_path": "mlops-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mlops-engineer.md"
     },
     {
       "name": "data-engineer",
       "description": "Build robust data pipelines with ETL/ELT processes, data warehousing, and real-time streaming. Masters Apache Spark, Kafka, and modern data stack. Use PROACTIVELY for data pipeline design.",
       "model": "sonnet",
-      "file_path": "data-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-engineer.md"
     },
     {
       "name": "data-scientist",
       "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
       "model": "opus",
-      "file_path": "data-scientist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
     },
     {
       "name": "prompt-engineer",
       "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
       "model": "opus",
-      "file_path": "prompt-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
     },
     {
       "name": "context-manager",
       "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
       "model": "sonnet",
-      "file_path": "context-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
     },
     {
       "name": "api-documenter",
       "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
       "model": "haiku",
-      "file_path": "api-documenter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
     },
     {
       "name": "backend-security-coder",
       "description": "Write secure backend code with authentication, authorization, and data protection built-in. Prevents injection, SSRF, and privilege escalation. Use PROACTIVELY for security-critical backend code.",
       "model": "opus",
-      "file_path": "backend-security-coder.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-security-coder.md"
     },
     {
       "name": "code-reviewer",
       "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
       "model": "sonnet",
-      "file_path": "code-reviewer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
     },
     {
       "name": "debugger",
       "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
       "model": "sonnet",
-      "file_path": "debugger.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
     },
     {
       "name": "test-automator",
       "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
       "model": "sonnet",
-      "file_path": "test-automator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
     },
     {
       "name": "tdd-orchestrator",
       "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
       "model": "opus",
-      "file_path": "tdd-orchestrator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
     },
     {
       "name": "deployment-engineer",
       "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
       "model": "sonnet",
-      "file_path": "deployment-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
     }
   ],
   "model_distribution": {

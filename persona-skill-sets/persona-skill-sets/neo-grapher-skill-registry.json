@@ -19,79 +19,79 @@
       "name": "database-admin",
       "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
       "model": "sonnet",
-      "file_path": "database-admin.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
     },
     {
       "name": "database-optimizer",
       "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
       "model": "sonnet",
-      "file_path": "database-optimizer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
     },
     {
       "name": "sql-pro",
       "description": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Use PROACTIVELY for database optimization or complex analysis.",
       "model": "sonnet",
-      "file_path": "sql-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sql-pro.md"
     },
     {
       "name": "data-engineer",
       "description": "Build robust data pipelines with ETL/ELT processes, data warehousing, and real-time streaming. Masters Apache Spark, Kafka, and modern data stack. Use PROACTIVELY for data pipeline design.",
       "model": "sonnet",
-      "file_path": "data-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-engineer.md"
     },
     {
       "name": "data-scientist",
       "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
       "model": "opus",
-      "file_path": "data-scientist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
     },
     {
       "name": "ai-engineer",
       "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
       "model": "opus",
-      "file_path": "ai-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
     },
     {
       "name": "python-pro",
       "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
       "model": "sonnet",
-      "file_path": "python-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
     },
     {
       "name": "backend-architect",
       "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
       "model": "opus",
-      "file_path": "backend-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     },
     {
       "name": "observability-engineer",
       "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
       "model": "opus",
-      "file_path": "observability-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
     },
     {
       "name": "architect-review",
       "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
       "model": "opus",
-      "file_path": "architect-review.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
     }
   ],
   "model_distribution": {

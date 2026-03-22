@@ -19,79 +19,79 @@
       "name": "cloud-architect",
       "description": "Design cloud-native solutions across AWS, Azure, and GCP with cost optimization and security. Masters serverless, containers, and infrastructure as code. Use PROACTIVELY for cloud architecture.",
       "model": "opus",
-      "file_path": "cloud-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/cloud-architect.md"
     },
     {
       "name": "hybrid-cloud-architect",
       "description": "Design hybrid and multi-cloud architectures with seamless integration, data synchronization, and security. Masters cloud connectivity and edge computing. Use PROACTIVELY for hybrid cloud design.",
       "model": "opus",
-      "file_path": "hybrid-cloud-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hybrid-cloud-architect.md"
     },
     {
       "name": "kubernetes-architect",
       "description": "Design and operate Kubernetes clusters with proper resource management, networking, and security. Masters Helm, operators, and service mesh. Use PROACTIVELY for Kubernetes architecture.",
       "model": "opus",
-      "file_path": "kubernetes-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/kubernetes-architect.md"
     },
     {
       "name": "terraform-specialist",
       "description": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
       "model": "opus",
-      "file_path": "terraform-specialist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/terraform-specialist.md"
     },
     {
       "name": "deployment-engineer",
       "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
       "model": "sonnet",
-      "file_path": "deployment-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
     },
     {
       "name": "devops-troubleshooter",
       "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
       "model": "sonnet",
-      "file_path": "devops-troubleshooter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
     },
     {
       "name": "observability-engineer",
       "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
       "model": "opus",
-      "file_path": "observability-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
     },
     {
       "name": "network-engineer",
       "description": "Design and troubleshoot network infrastructure with routing, security, and cloud networking. Masters VPNs, load balancing, and DNS. Use PROACTIVELY for network design.",
       "model": "sonnet",
-      "file_path": "network-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/network-engineer.md"
     },
     {
       "name": "incident-responder",
       "description": "Manage production incidents with rapid diagnosis, mitigation, and communication. Masters incident command and post-mortem analysis. Use PROACTIVELY during incidents.",
       "model": "sonnet",
-      "file_path": "incident-responder.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/incident-responder.md"
     },
     {
       "name": "security-auditor",
       "description": "Conduct security audits with vulnerability assessment, penetration testing guidance, and compliance review. Masters OWASP and security frameworks. Use PROACTIVELY for security audits.",
       "model": "opus",
-      "file_path": "security-auditor.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/security-auditor.md"
     },
     {
       "name": "database-admin",
       "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
       "model": "sonnet",
-      "file_path": "database-admin.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     }
   ],
   "model_distribution": {

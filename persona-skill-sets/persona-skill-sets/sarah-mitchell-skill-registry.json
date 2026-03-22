@@ -19,43 +19,43 @@
       "name": "legal-advisor",
       "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
       "model": "opus",
-      "file_path": "legal-advisor.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
     },
     {
       "name": "risk-manager",
       "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
       "model": "opus",
-      "file_path": "risk-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "business-analyst",
       "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
       "model": "sonnet",
-      "file_path": "business-analyst.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "search-specialist",
       "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
       "model": "haiku",
-      "file_path": "search-specialist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
     },
     {
       "name": "reference-builder",
       "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
       "model": "haiku",
-      "file_path": "reference-builder.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
     }
   ],
   "model_distribution": {

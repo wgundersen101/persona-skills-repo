@@ -19,85 +19,85 @@
       "name": "frontend-developer",
       "description": "Build modern web frontends with React, Vue, or Angular. Masters accessibility, performance, and responsive design. Use PROACTIVELY for frontend development.",
       "model": "sonnet",
-      "file_path": "frontend-developer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/frontend-developer.md"
     },
     {
       "name": "frontend-security-coder",
       "description": "Write secure frontend code preventing XSS, CSRF, and client-side vulnerabilities. Masters Content Security Policy and secure authentication flows. Use PROACTIVELY for secure frontend code.",
       "model": "sonnet",
-      "file_path": "frontend-security-coder.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/frontend-security-coder.md"
     },
     {
       "name": "typescript-pro",
       "description": "Master TypeScript with advanced types, generics, and strict type safety. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
       "model": "sonnet",
-      "file_path": "typescript-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/typescript-pro.md"
     },
     {
       "name": "javascript-pro",
       "description": "Master modern JavaScript with ES2024+ features, async patterns, and runtime optimization. Handles Node.js, Deno, and browser environments. Use PROACTIVELY for JavaScript development.",
       "model": "sonnet",
-      "file_path": "javascript-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/javascript-pro.md"
     },
     {
       "name": "ui-ux-designer",
       "description": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Use PROACTIVELY for design systems, user flows, or interface optimization.",
       "model": "sonnet",
-      "file_path": "ui-ux-designer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ui-ux-designer.md"
     },
     {
       "name": "ui-visual-validator",
       "description": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Use PROACTIVELY to verify UI modifications have achieved their intended goals.",
       "model": "sonnet",
-      "file_path": "ui-visual-validator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ui-visual-validator.md"
     },
     {
       "name": "graphql-architect",
       "description": "Design efficient GraphQL APIs with schema design, resolvers, and performance optimization. Masters federation and real-time subscriptions. Use PROACTIVELY for GraphQL architecture.",
       "model": "sonnet",
-      "file_path": "graphql-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/graphql-architect.md"
     },
     {
       "name": "api-documenter",
       "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
       "model": "haiku",
-      "file_path": "api-documenter.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
     },
     {
       "name": "code-reviewer",
       "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
       "model": "sonnet",
-      "file_path": "code-reviewer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
     },
     {
       "name": "debugger",
       "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
       "model": "sonnet",
-      "file_path": "debugger.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
     },
     {
       "name": "test-automator",
       "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
       "model": "sonnet",
-      "file_path": "test-automator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
     },
     {
       "name": "tdd-orchestrator",
       "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
       "model": "opus",
-      "file_path": "tdd-orchestrator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
     },
     {
       "name": "performance-engineer",
       "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
       "model": "opus",
-      "file_path": "performance-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
     },
     {
       "name": "mobile-developer",
       "description": "Build cross-platform mobile apps with React Native, Flutter, or native development. Masters mobile UX patterns and app store deployment. Use PROACTIVELY for mobile development.",
       "model": "sonnet",
-      "file_path": "mobile-developer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mobile-developer.md"
     }
   ],
   "model_distribution": {

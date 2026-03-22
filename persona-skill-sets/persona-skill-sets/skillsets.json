@@ -1,0 +1,2430 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Alex Reed",
+    "email": "alex.reed@shirecom.com",
+    "role_summary": "Content Strategist \u2014 Content strategy, copywriting, SEO optimization, and content distribution analytics.",
+    "capabilities": [
+      "Content Strategy & Planning",
+      "Content Creation & Copywriting",
+      "SEO & Content Optimization",
+      "Content Distribution & Analytics"
+    ]
+  },
+  "allocation_rationale": "Alex owns end-to-end content production with full SEO coverage. The complete SEO suite aligns directly with the Content Strategy & SEO Optimization capabilities. Docs-architect supports content governance; search-specialist enables gap analysis and trend research.",
+  "skills": [
+    {
+      "name": "seo-content-writer",
+      "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-writer.md"
+    },
+    {
+      "name": "seo-content-planner",
+      "description": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-planner.md"
+    },
+    {
+      "name": "seo-content-auditor",
+      "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations. Use PROACTIVELY for content review.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-auditor.md"
+    },
+    {
+      "name": "seo-content-refresher",
+      "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Use PROACTIVELY for older content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-refresher.md"
+    },
+    {
+      "name": "seo-cannibalization-detector",
+      "description": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-cannibalization-detector.md"
+    },
+    {
+      "name": "seo-authority-builder",
+      "description": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-authority-builder.md"
+    },
+    {
+      "name": "seo-keyword-strategist",
+      "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-keyword-strategist.md"
+    },
+    {
+      "name": "seo-meta-optimizer",
+      "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Use PROACTIVELY for new content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-meta-optimizer.md"
+    },
+    {
+      "name": "seo-snippet-hunter",
+      "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks. Use PROACTIVELY for question-based content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-snippet-hunter.md"
+    },
+    {
+      "name": "seo-structure-architect",
+      "description": "Analyzes and optimizes content structure including header hierarchy, schema markup, and internal linking. Use PROACTIVELY for content structuring.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-structure-architect.md"
+    },
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 4,
+    "haiku": 9
+  },
+  "total_skills": 13
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Anna Bunting",
+    "email": "anna.bunting@shirecom.com",
+    "role_summary": "Patent Attorney \u2014 Patent prosecution, portfolio evaluation, prior art research, and patent claim drafting.",
+    "capabilities": [
+      "Patent Prosecution",
+      "Patent Portfolio Evaluation",
+      "Prior Art Research",
+      "Patent Claim Drafting"
+    ]
+  },
+  "allocation_rationale": "Anna handles IP prosecution and patent strategy. Legal-advisor underpins all drafting and review tasks; search-specialist is critical for prior art research; docs-architect supports patent portfolio documentation; risk-manager informs portfolio risk assessment; prompt-engineer aids in refining AI-assisted claim generation workflows.",
+  "skills": [
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 3,
+    "haiku": 2,
+    "sonnet": 3
+  },
+  "total_skills": 8
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Ava Reynolds",
+    "email": "ava.reynolds@shirecom.com",
+    "role_summary": "CEO \u2014 Strategic leadership, client executive engagement, AI consulting oversight, and organizational decision making.",
+    "capabilities": [
+      "Strategic Leadership",
+      "Client Executive Engagement",
+      "Organizational Decision Making",
+      "AI Consulting Oversight"
+    ]
+  },
+  "allocation_rationale": "As CEO, Ava operates at the strategic layer: synthesizing business requirements, assessing risk, guiding legal posture, and driving executive communications. Skills support requirements articulation, risk frameworks, legal review, market research, documentation leadership, sales collateral, and AI persona governance.",
+  "skills": [
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "sales-automator",
+      "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
+    },
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "hr-pro",
+      "description": "Handle HR-related tasks including job descriptions, interview questions, and policy documentation. Masters hiring workflows and employee communications. Use PROACTIVELY for HR content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hr-pro.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 3,
+    "opus": 4,
+    "haiku": 4
+  },
+  "total_skills": 11
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Carlos Ramirez",
+    "email": "carlos.ramirez@shirecom.com",
+    "role_summary": "Backend Engineer \u2014 API design, database integration, backend performance optimization, and security implementation.",
+    "capabilities": [
+      "API Design & Development",
+      "Database Integration",
+      "Backend Performance Optimization",
+      "Security Implementation"
+    ]
+  },
+  "allocation_rationale": "Carlos is a full-service backend engineer. The API, security, and database skill groups map directly to his four capabilities. Language skills (Java, Python, JS/TS, Go, FastAPI, Django) cover his implementation stack. Performance, testing, and documentation round out production-quality delivery.",
+  "skills": [
+    {
+      "name": "backend-architect",
+      "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
+    },
+    {
+      "name": "backend-security-coder",
+      "description": "Write secure backend code with authentication, authorization, and data protection built-in. Prevents injection, SSRF, and privilege escalation. Use PROACTIVELY for security-critical backend code.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-security-coder.md"
+    },
+    {
+      "name": "api-documenter",
+      "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
+    },
+    {
+      "name": "graphql-architect",
+      "description": "Design efficient GraphQL APIs with schema design, resolvers, and performance optimization. Masters federation and real-time subscriptions. Use PROACTIVELY for GraphQL architecture.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/graphql-architect.md"
+    },
+    {
+      "name": "java-pro",
+      "description": "Write enterprise Java with Spring Boot, modern JDK features, and reactive programming. Masters JVM optimization and microservices. Use PROACTIVELY for Java development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/java-pro.md"
+    },
+    {
+      "name": "python-pro",
+      "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
+    },
+    {
+      "name": "javascript-pro",
+      "description": "Master modern JavaScript with ES2024+ features, async patterns, and runtime optimization. Handles Node.js, Deno, and browser environments. Use PROACTIVELY for JavaScript development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/javascript-pro.md"
+    },
+    {
+      "name": "typescript-pro",
+      "description": "Master TypeScript with advanced types, generics, and strict type safety. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/typescript-pro.md"
+    },
+    {
+      "name": "golang-pro",
+      "description": "Write idiomatic Go code with proper error handling, concurrency patterns, and performance optimization. Masters Go modules and testing. Use PROACTIVELY for Go development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/golang-pro.md"
+    },
+    {
+      "name": "fastapi-pro",
+      "description": "Build high-performance FastAPI applications with async patterns, type safety, and automatic OpenAPI docs. Masters Pydantic and dependency injection. Use PROACTIVELY for FastAPI development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/fastapi-pro.md"
+    },
+    {
+      "name": "django-pro",
+      "description": "Build production Django applications with optimal ORM usage, security, and performance. Masters Django REST Framework and deployment best practices. Use PROACTIVELY for Django development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/django-pro.md"
+    },
+    {
+      "name": "sql-pro",
+      "description": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Use PROACTIVELY for database optimization or complex analysis.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sql-pro.md"
+    },
+    {
+      "name": "database-admin",
+      "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
+    },
+    {
+      "name": "database-optimizer",
+      "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
+    },
+    {
+      "name": "test-automator",
+      "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 4,
+    "haiku": 2,
+    "sonnet": 15
+  },
+  "total_skills": 21
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "David Kim",
+    "email": "david.kim@shirecom.com",
+    "role_summary": "QA Engineer \u2014 Test strategy, test automation, defect management, and performance/load testing.",
+    "capabilities": [
+      "Test Strategy & Planning",
+      "Test Automation",
+      "Defect Management & Reporting",
+      "Performance & Load Testing"
+    ]
+  },
+  "allocation_rationale": "David owns test strategy and quality engineering. Test-automator and tdd-orchestrator are his core execution skills. Debugger and error-detective support defect investigation; performance-engineer covers load testing; docs-architect helps maintain test plans and reporting artifacts.",
+  "skills": [
+    {
+      "name": "test-automator",
+      "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
+    },
+    {
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
+    },
+    {
+      "name": "api-documenter",
+      "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "devops-troubleshooter",
+      "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 7,
+    "opus": 2,
+    "haiku": 1
+  },
+  "total_skills": 10
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Dr. Alex Reid",
+    "email": "alex.reid@shirecom.com",
+    "role_summary": "Lead AI Quality Auditor \u2014 Persona evaluation, prompt usage auditing, artifact quality assessment, and traceability analysis.",
+    "capabilities": [
+      "Persona Evaluation",
+      "Prompt Usage Auditing",
+      "Artifact Quality Assessment",
+      "Traceability Analysis"
+    ]
+  },
+  "allocation_rationale": "Dr. Reid leads the auditor cohort and brings a higher-order governance perspective. In addition to the standard auditor skills, architect-review enables evaluation of system-level design decisions; tdd-orchestrator supports structured quality governance workflows; the combination reflects a Principal/Lead auditor scope.",
+  "skills": [
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "architect-review",
+      "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 6,
+    "sonnet": 5
+  },
+  "total_skills": 11
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Emma Brooks",
+    "email": "emma.brooks@shirecom.com",
+    "role_summary": "Brand Strategist \u2014 Brand strategy, governance, campaign management, and competitive brand analysis.",
+    "capabilities": [
+      "Brand Strategy Development",
+      "Brand Governance & Standards",
+      "Brand Campaign Management",
+      "Competitive Brand Analysis"
+    ]
+  },
+  "allocation_rationale": "Emma governs brand voice and positioning. Content marketer and SEO authority builder are her primary production tools. Docs-architect supports brand standards documentation; search-specialist enables competitive brand analysis; mermaid helps visualize brand architecture.",
+  "skills": [
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "seo-authority-builder",
+      "description": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-authority-builder.md"
+    },
+    {
+      "name": "seo-content-auditor",
+      "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations. Use PROACTIVELY for content review.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-auditor.md"
+    },
+    {
+      "name": "seo-content-writer",
+      "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-writer.md"
+    },
+    {
+      "name": "seo-content-planner",
+      "description": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-planner.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "sales-automator",
+      "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
+    }
+  ],
+  "model_distribution": {
+    "haiku": 4,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Eric Frazer",
+    "email": "eric.frazer@shirecom.com",
+    "role_summary": "IP Litigation Attorney \u2014 IP litigation strategy, freedom-to-operate analysis, IP licensing, and technology patent strategy.",
+    "capabilities": [
+      "IP Litigation Strategy",
+      "Freedom-to-Operate Analysis",
+      "IP Licensing & Transactions",
+      "Technology Patent Strategy"
+    ]
+  },
+  "allocation_rationale": "Eric manages IP litigation and licensing. Legal-advisor covers drafting and review; search-specialist enables freedom-to-operate research; risk-manager supports litigation risk quantification; docs-architect maintains case and portfolio documentation; mermaid helps visualize patent landscape maps.",
+  "skills": [
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 2,
+    "haiku": 2,
+    "sonnet": 3
+  },
+  "total_skills": 7
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Ethan Miller",
+    "email": "ethan.miller@shirecom.com",
+    "role_summary": "Frontend Engineer \u2014 React application development, UI implementation, frontend-API integration, and frontend testing.",
+    "capabilities": [
+      "React Application Development",
+      "UI Implementation",
+      "Frontend-API Integration",
+      "Frontend Testing & QA"
+    ]
+  },
+  "allocation_rationale": "Ethan builds React frontends and owns frontend quality. Frontend-developer and TypeScript/JS skills cover implementation; ui-ux-designer and ui-visual-validator support design fidelity; frontend-security-coder covers client-side security; graphql and api-documenter support API integration; testing suite covers QA responsibilities.",
+  "skills": [
+    {
+      "name": "frontend-developer",
+      "description": "Build modern web frontends with React, Vue, or Angular. Masters accessibility, performance, and responsive design. Use PROACTIVELY for frontend development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/frontend-developer.md"
+    },
+    {
+      "name": "frontend-security-coder",
+      "description": "Write secure frontend code preventing XSS, CSRF, and client-side vulnerabilities. Masters Content Security Policy and secure authentication flows. Use PROACTIVELY for secure frontend code.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/frontend-security-coder.md"
+    },
+    {
+      "name": "typescript-pro",
+      "description": "Master TypeScript with advanced types, generics, and strict type safety. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/typescript-pro.md"
+    },
+    {
+      "name": "javascript-pro",
+      "description": "Master modern JavaScript with ES2024+ features, async patterns, and runtime optimization. Handles Node.js, Deno, and browser environments. Use PROACTIVELY for JavaScript development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/javascript-pro.md"
+    },
+    {
+      "name": "ui-ux-designer",
+      "description": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Use PROACTIVELY for design systems, user flows, or interface optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ui-ux-designer.md"
+    },
+    {
+      "name": "ui-visual-validator",
+      "description": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Use PROACTIVELY to verify UI modifications have achieved their intended goals.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ui-visual-validator.md"
+    },
+    {
+      "name": "graphql-architect",
+      "description": "Design efficient GraphQL APIs with schema design, resolvers, and performance optimization. Masters federation and real-time subscriptions. Use PROACTIVELY for GraphQL architecture.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/graphql-architect.md"
+    },
+    {
+      "name": "api-documenter",
+      "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "test-automator",
+      "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
+    },
+    {
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "mobile-developer",
+      "description": "Build cross-platform mobile apps with React Native, Flutter, or native development. Masters mobile UX patterns and app store deployment. Use PROACTIVELY for mobile development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mobile-developer.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 11,
+    "haiku": 1,
+    "opus": 2
+  },
+  "total_skills": 14
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Fred Philco",
+    "email": "fred.philco@shirecom.com",
+    "role_summary": "Platform Engineer \u2014 Cloud strategy, platform engineering, DevOps pipeline design, and disaster recovery.",
+    "capabilities": [
+      "Cloud Strategy & Roadmap",
+      "Platform Engineering",
+      "DevOps Pipeline Design",
+      "Disaster Recovery & Resilience"
+    ]
+  },
+  "allocation_rationale": "Fred owns the infrastructure and platform layer. Cloud/hybrid/Kubernetes/Terraform form the IaC and orchestration core. DevOps pipeline, deployment, and observability skills cover CI/CD and monitoring. Incident-responder covers DR scenarios; network and security-auditor round out platform hardening.",
+  "skills": [
+    {
+      "name": "cloud-architect",
+      "description": "Design cloud-native solutions across AWS, Azure, and GCP with cost optimization and security. Masters serverless, containers, and infrastructure as code. Use PROACTIVELY for cloud architecture.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/cloud-architect.md"
+    },
+    {
+      "name": "hybrid-cloud-architect",
+      "description": "Design hybrid and multi-cloud architectures with seamless integration, data synchronization, and security. Masters cloud connectivity and edge computing. Use PROACTIVELY for hybrid cloud design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hybrid-cloud-architect.md"
+    },
+    {
+      "name": "kubernetes-architect",
+      "description": "Design and operate Kubernetes clusters with proper resource management, networking, and security. Masters Helm, operators, and service mesh. Use PROACTIVELY for Kubernetes architecture.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/kubernetes-architect.md"
+    },
+    {
+      "name": "terraform-specialist",
+      "description": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/terraform-specialist.md"
+    },
+    {
+      "name": "deployment-engineer",
+      "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
+    },
+    {
+      "name": "devops-troubleshooter",
+      "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "network-engineer",
+      "description": "Design and troubleshoot network infrastructure with routing, security, and cloud networking. Masters VPNs, load balancing, and DNS. Use PROACTIVELY for network design.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/network-engineer.md"
+    },
+    {
+      "name": "incident-responder",
+      "description": "Manage production incidents with rapid diagnosis, mitigation, and communication. Masters incident command and post-mortem analysis. Use PROACTIVELY during incidents.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/incident-responder.md"
+    },
+    {
+      "name": "security-auditor",
+      "description": "Conduct security audits with vulnerability assessment, penetration testing guidance, and compliance review. Masters OWASP and security frameworks. Use PROACTIVELY for security audits.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/security-auditor.md"
+    },
+    {
+      "name": "database-admin",
+      "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 7,
+    "sonnet": 6
+  },
+  "total_skills": 13
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "James Carter",
+    "email": "james.carter@shirecom.com",
+    "role_summary": "IP Strategy Counsel \u2014 IP portfolio management, NDA drafting, IP risk assessment, and trade secret protection.",
+    "capabilities": [
+      "IP Strategy & Portfolio Management",
+      "NDA & Confidentiality Agreement Drafting",
+      "IP Risk Assessment",
+      "Trade Secret Protection"
+    ]
+  },
+  "allocation_rationale": "James leads IP strategy and confidentiality. Legal-advisor anchors his drafting; risk-manager covers IP risk assessment; docs-architect organizes portfolio governance documentation; search-specialist supports competitive IP landscape research; business-analyst helps translate technical IP disclosures into strategic requirements.",
+  "skills": [
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 2,
+    "sonnet": 3,
+    "haiku": 2
+  },
+  "total_skills": 7
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Jordan Chen",
+    "email": "jordan.chen@shirecom.com",
+    "role_summary": "AI Quality Auditor \u2014 Persona evaluation, prompt usage auditing, artifact quality assessment, and traceability analysis.",
+    "capabilities": [
+      "Persona Evaluation",
+      "Prompt Usage Auditing",
+      "Artifact Quality Assessment",
+      "Traceability Analysis"
+    ]
+  },
+  "allocation_rationale": "Jordan audits AI persona behavior and prompt quality. Prompt-engineer and persona-creator give deep understanding of the artifacts being evaluated; context-manager supports assessment of context handling; observability-engineer enables audit trail monitoring; docs-architect and mermaid support structured traceability reporting.",
+  "skills": [
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 4,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Kim Strong",
+    "email": "kim.strong@shirecom.com",
+    "role_summary": "Customer Success Manager \u2014 User onboarding, support operations, audit/compliance reporting, and process documentation.",
+    "capabilities": [
+      "User Onboarding & Enablement",
+      "Support Operations Management",
+      "Audit & Compliance Reporting",
+      "Process Documentation"
+    ]
+  },
+  "allocation_rationale": "Kim supports customers and internal operations. Customer-support is her primary interaction skill; tutorial-engineer and docs-architect support onboarding content creation; reference-builder aids compliance documentation; business-analyst helps translate process requirements; risk-manager informs audit reporting.",
+  "skills": [
+    {
+      "name": "customer-support",
+      "description": "Handle customer inquiries with empathy, technical accuracy, and clear communication. Escalates appropriately and documents resolutions. Use PROACTIVELY for customer-facing responses.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/customer-support.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "tutorial-engineer",
+      "description": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tutorial-engineer.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    },
+    {
+      "name": "hr-pro",
+      "description": "Handle HR-related tasks including job descriptions, interview questions, and policy documentation. Masters hiring workflows and employee communications. Use PROACTIVELY for HR content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hr-pro.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    }
+  ],
+  "model_distribution": {
+    "haiku": 5,
+    "sonnet": 3,
+    "opus": 2
+  },
+  "total_skills": 10
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Laura Chen",
+    "email": "laura.chen@shirecom.com",
+    "role_summary": "AI Quality Auditor \u2014 Persona evaluation, prompt usage auditing, artifact quality assessment, and traceability analysis.",
+    "capabilities": [
+      "Persona Evaluation",
+      "Prompt Usage Auditing",
+      "Artifact Quality Assessment",
+      "Traceability Analysis"
+    ]
+  },
+  "allocation_rationale": "Laura audits AI personas and prompt artifacts. Skills mirror Jordan Chen's \u2014 prompt-engineer and persona-creator underpin evaluation capability; observability-engineer enables audit trail visibility; docs-architect maintains traceability documentation; risk-manager supports quality risk reporting.",
+  "skills": [
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 4,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Laura Hayes",
+    "email": "laura.hayes@shirecom.com",
+    "role_summary": "General Counsel \u2014 Compliance program management, regulatory advisory, legal risk management, and corporate governance.",
+    "capabilities": [
+      "Compliance Program Management",
+      "Regulatory Advisory",
+      "Legal Risk Management",
+      "Corporate Governance"
+    ]
+  },
+  "allocation_rationale": "Laura governs legal and compliance across the organization. Legal-advisor is central; risk-manager supports legal risk frameworks; docs-architect maintains governance policies and procedures; hr-pro assists with employment policy content; search-specialist enables regulatory research and monitoring.",
+  "skills": [
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "hr-pro",
+      "description": "Handle HR-related tasks including job descriptions, interview questions, and policy documentation. Masters hiring workflows and employee communications. Use PROACTIVELY for HR content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hr-pro.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 2,
+    "sonnet": 3,
+    "haiku": 3
+  },
+  "total_skills": 8
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Mia Thompson",
+    "email": "mia.thompson@shirecom.com",
+    "role_summary": "AI Quality Auditor \u2014 Persona evaluation, prompt usage auditing, artifact quality assessment, and traceability analysis.",
+    "capabilities": [
+      "Persona Evaluation",
+      "Prompt Usage Auditing",
+      "Artifact Quality Assessment",
+      "Traceability Analysis"
+    ]
+  },
+  "allocation_rationale": "Mia evaluates AI artifact quality and traces prompt usage patterns. The auditor skill set \u2014 prompt-engineer, persona-creator, context-manager \u2014 provides the evaluation lens; observability and error-detective tools support anomaly detection; docs-architect structures formal audit reports.",
+  "skills": [
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 4,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Michael Chen",
+    "email": "michael.chen@shirecom.com",
+    "role_summary": "Digital Advertising Specialist \u2014 PPC campaign management, social media advertising, conversion rate optimization, and analytics.",
+    "capabilities": [
+      "PPC Campaign Management",
+      "Social Media Advertising",
+      "Conversion Rate Optimization",
+      "Advertising Analytics & Reporting"
+    ]
+  },
+  "allocation_rationale": "Michael manages paid and organic channel performance. SEO meta and keyword skills sharpen ad copy; data-scientist supports attribution modeling and CRO analytics; search-specialist informs competitive ad research; content-marketer produces ad creative and landing copy.",
+  "skills": [
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "seo-content-writer",
+      "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-writer.md"
+    },
+    {
+      "name": "seo-meta-optimizer",
+      "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Use PROACTIVELY for new content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-meta-optimizer.md"
+    },
+    {
+      "name": "seo-keyword-strategist",
+      "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-keyword-strategist.md"
+    },
+    {
+      "name": "seo-snippet-hunter",
+      "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks. Use PROACTIVELY for question-based content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-snippet-hunter.md"
+    },
+    {
+      "name": "seo-structure-architect",
+      "description": "Analyzes and optimizes content structure including header hierarchy, schema markup, and internal linking. Use PROACTIVELY for content structuring.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-structure-architect.md"
+    },
+    {
+      "name": "sales-automator",
+      "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "data-scientist",
+      "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
+    }
+  ],
+  "model_distribution": {
+    "haiku": 7,
+    "sonnet": 1,
+    "opus": 1
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Morgan Blake",
+    "email": "morgan.blake@shirecom.com",
+    "role_summary": "AI Quality Auditor \u2014 Persona evaluation, prompt usage auditing, artifact quality assessment, and traceability analysis.",
+    "capabilities": [
+      "Persona Evaluation",
+      "Prompt Usage Auditing",
+      "Artifact Quality Assessment",
+      "Traceability Analysis"
+    ]
+  },
+  "allocation_rationale": "Morgan focuses on artifact and prompt quality governance. Consistent with the auditor persona cohort \u2014 prompt-engineer and persona-creator for evaluation depth; observability-engineer for runtime audit capability; risk-manager for quality risk classification; mermaid for traceability flow diagrams.",
+  "skills": [
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 4,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Neha Rao",
+    "email": "neha.rao@shirecom.com",
+    "role_summary": "Principal AI Systems Architect \u2014 Java microservices architecture, AI platform integration, distributed system design, and technical architecture leadership.",
+    "capabilities": [
+      "Java Microservices Architecture",
+      "AI Platform Integration",
+      "Distributed System Design",
+      "Technical Architecture Leadership"
+    ]
+  },
+  "allocation_rationale": "Neha leads AI platform and distributed systems design. Architect-review and backend-architect anchor her technical leadership role. AI/ML skills support platform integration; java-pro covers implementation; context-manager and prompt-engineer align with AI platform work; legacy-modernizer supports enterprise migration contexts.",
+  "skills": [
+    {
+      "name": "backend-architect",
+      "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
+    },
+    {
+      "name": "architect-review",
+      "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
+    },
+    {
+      "name": "java-pro",
+      "description": "Write enterprise Java with Spring Boot, modern JDK features, and reactive programming. Masters JVM optimization and microservices. Use PROACTIVELY for Java development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/java-pro.md"
+    },
+    {
+      "name": "python-pro",
+      "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
+    },
+    {
+      "name": "ai-engineer",
+      "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
+    },
+    {
+      "name": "ml-engineer",
+      "description": "Build and deploy production ML systems with model training, optimization, and serving. Masters MLOps workflows and feature engineering. Use PROACTIVELY for ML engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ml-engineer.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "graphql-architect",
+      "description": "Design efficient GraphQL APIs with schema design, resolvers, and performance optimization. Masters federation and real-time subscriptions. Use PROACTIVELY for GraphQL architecture.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/graphql-architect.md"
+    },
+    {
+      "name": "database-optimizer",
+      "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "security-auditor",
+      "description": "Conduct security audits with vulnerability assessment, penetration testing guidance, and compliance review. Masters OWASP and security frameworks. Use PROACTIVELY for security audits.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/security-auditor.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "legacy-modernizer",
+      "description": "Modernize legacy systems with incremental refactoring, strangler fig pattern, and technology migration. Handles risk assessment and team enablement. Use PROACTIVELY for legacy modernization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legacy-modernizer.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 7,
+    "sonnet": 8
+  },
+  "total_skills": 15
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Neo Grapher",
+    "email": "neo.grapher@shirecom.com",
+    "role_summary": "Graph Database Architect \u2014 Graph data modeling, GraphRAG solution architecture, Cypher query engineering, and knowledge graph operations.",
+    "capabilities": [
+      "Graph Data Modeling",
+      "GraphRAG Solution Architecture",
+      "Cypher Query Engineering",
+      "Knowledge Graph Operations"
+    ]
+  },
+  "allocation_rationale": "Neo Grapher specializes in graph databases and knowledge graph architectures. Database-admin and optimizer cover operational Neo4j management; data-engineer supports pipeline design for graph ingestion; data-scientist and ai-engineer support GraphRAG pattern development; mermaid enables graph schema visualization.",
+  "skills": [
+    {
+      "name": "database-admin",
+      "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
+    },
+    {
+      "name": "database-optimizer",
+      "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
+    },
+    {
+      "name": "sql-pro",
+      "description": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Use PROACTIVELY for database optimization or complex analysis.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sql-pro.md"
+    },
+    {
+      "name": "data-engineer",
+      "description": "Build robust data pipelines with ETL/ELT processes, data warehousing, and real-time streaming. Masters Apache Spark, Kafka, and modern data stack. Use PROACTIVELY for data pipeline design.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-engineer.md"
+    },
+    {
+      "name": "data-scientist",
+      "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
+    },
+    {
+      "name": "ai-engineer",
+      "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
+    },
+    {
+      "name": "python-pro",
+      "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
+    },
+    {
+      "name": "backend-architect",
+      "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "architect-review",
+      "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 7,
+    "opus": 6
+  },
+  "total_skills": 13
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Priya Singh",
+    "email": "priya.singh@shirecom.com",
+    "role_summary": "Market Research Analyst \u2014 Market research, competitive intelligence, voice of customer analysis, and market sizing.",
+    "capabilities": [
+      "Market Research & Analysis",
+      "Competitive Intelligence",
+      "Voice of Customer Analysis",
+      "Market Sizing & Opportunity Assessment"
+    ]
+  },
+  "allocation_rationale": "Priya's work centers on research synthesis, data analysis, and competitive landscape mapping. Skills support deep web research, statistical analysis, business requirements translation, and content-quality evaluation for market reports and deliverables.",
+  "skills": [
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "data-scientist",
+      "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "seo-content-auditor",
+      "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations. Use PROACTIVELY for content review.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-auditor.md"
+    },
+    {
+      "name": "seo-keyword-strategist",
+      "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-keyword-strategist.md"
+    },
+    {
+      "name": "seo-authority-builder",
+      "description": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-authority-builder.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    }
+  ],
+  "model_distribution": {
+    "haiku": 3,
+    "opus": 1,
+    "sonnet": 5
+  },
+  "total_skills": 9
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Ravi Kumar",
+    "email": "ravi.kumar@shirecom.com",
+    "role_summary": "AWS Solutions Architect \u2014 AWS solution architecture, infrastructure as code, cloud cost optimization, and cloud security.",
+    "capabilities": [
+      "AWS Solution Architecture",
+      "Infrastructure as Code",
+      "Cloud Cost Optimization",
+      "Cloud Security & Compliance"
+    ]
+  },
+  "allocation_rationale": "Ravi specializes in AWS architecture and IaC. Terraform-specialist is central to his IaC work; cloud-architect and hybrid-cloud support architecture design; security-auditor and backend-security-coder align with cloud security compliance. Observability and incident-responder support resilience posture.",
+  "skills": [
+    {
+      "name": "cloud-architect",
+      "description": "Design cloud-native solutions across AWS, Azure, and GCP with cost optimization and security. Masters serverless, containers, and infrastructure as code. Use PROACTIVELY for cloud architecture.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/cloud-architect.md"
+    },
+    {
+      "name": "hybrid-cloud-architect",
+      "description": "Design hybrid and multi-cloud architectures with seamless integration, data synchronization, and security. Masters cloud connectivity and edge computing. Use PROACTIVELY for hybrid cloud design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hybrid-cloud-architect.md"
+    },
+    {
+      "name": "terraform-specialist",
+      "description": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/terraform-specialist.md"
+    },
+    {
+      "name": "kubernetes-architect",
+      "description": "Design and operate Kubernetes clusters with proper resource management, networking, and security. Masters Helm, operators, and service mesh. Use PROACTIVELY for Kubernetes architecture.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/kubernetes-architect.md"
+    },
+    {
+      "name": "deployment-engineer",
+      "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
+    },
+    {
+      "name": "network-engineer",
+      "description": "Design and troubleshoot network infrastructure with routing, security, and cloud networking. Masters VPNs, load balancing, and DNS. Use PROACTIVELY for network design.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/network-engineer.md"
+    },
+    {
+      "name": "security-auditor",
+      "description": "Conduct security audits with vulnerability assessment, penetration testing guidance, and compliance review. Masters OWASP and security frameworks. Use PROACTIVELY for security audits.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/security-auditor.md"
+    },
+    {
+      "name": "backend-security-coder",
+      "description": "Write secure backend code with authentication, authorization, and data protection built-in. Prevents injection, SSRF, and privilege escalation. Use PROACTIVELY for security-critical backend code.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-security-coder.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "database-admin",
+      "description": "Manage database systems with backup, recovery, replication, and security. Handles performance tuning and capacity planning. Use PROACTIVELY for database administration.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-admin.md"
+    },
+    {
+      "name": "incident-responder",
+      "description": "Manage production incidents with rapid diagnosis, mitigation, and communication. Masters incident command and post-mortem analysis. Use PROACTIVELY during incidents.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/incident-responder.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "devops-troubleshooter",
+      "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 7,
+    "sonnet": 6
+  },
+  "total_skills": 13
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Riley James",
+    "email": "riley.james@shirecom.com",
+    "role_summary": "Context Orchestration Manager \u2014 Context orchestration, tool brokering, MCP routing, context governance, and persona task routing.",
+    "capabilities": [
+      "Context Orchestration",
+      "Tool Brokering & MCP Routing",
+      "Context Governance & Observability",
+      "Persona Task Routing"
+    ]
+  },
+  "allocation_rationale": "Riley governs how context and tasks flow across the QuadCode persona network. Context-manager is the primary skill; prompt-engineer supports routing logic design; observability-engineer enables governance monitoring; persona-creator informs task routing rule design. Architect-review and mermaid support routing architecture documentation.",
+  "skills": [
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "ai-engineer",
+      "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
+    },
+    {
+      "name": "persona-creator",
+      "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
+    },
+    {
+      "name": "observability-engineer",
+      "description": "Implement comprehensive observability with metrics, logs, traces, and alerting. Masters Prometheus, Grafana, and distributed tracing. Use PROACTIVELY for observability design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/observability-engineer.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "architect-review",
+      "description": "Provide detailed design review feedback on architecture diagrams and technical specifications. Evaluates scalability, security, and best practices. Use PROACTIVELY for architecture reviews.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/architect-review.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 5,
+    "opus": 5
+  },
+  "total_skills": 10
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Samira Patel",
+    "email": "samira.patel@shirecom.com",
+    "role_summary": "AI/ML Engineer \u2014 Python microservices, AI workflow design, MLOps, and third-party API integration.",
+    "capabilities": [
+      "Python Microservices Development",
+      "AI Workflow & Agent Design",
+      "MLOps & Model Serving",
+      "Third-Party API & Tool Integration"
+    ]
+  },
+  "allocation_rationale": "Samira builds and ships AI/ML systems. Python and FastAPI are her primary implementation tools. The full AI/MLOps stack (ai-engineer, ml-engineer, mlops-engineer) covers model development through serving. Prompt-engineer and context-manager support agent workflow design. Data skills back feature engineering; deployment covers production delivery.",
+  "skills": [
+    {
+      "name": "python-pro",
+      "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
+    },
+    {
+      "name": "fastapi-pro",
+      "description": "Build high-performance FastAPI applications with async patterns, type safety, and automatic OpenAPI docs. Masters Pydantic and dependency injection. Use PROACTIVELY for FastAPI development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/fastapi-pro.md"
+    },
+    {
+      "name": "ai-engineer",
+      "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
+    },
+    {
+      "name": "ml-engineer",
+      "description": "Build and deploy production ML systems with model training, optimization, and serving. Masters MLOps workflows and feature engineering. Use PROACTIVELY for ML engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ml-engineer.md"
+    },
+    {
+      "name": "mlops-engineer",
+      "description": "Design MLOps infrastructure with model versioning, experiment tracking, and automated pipelines. Masters Kubeflow, MLflow, and feature stores. Use PROACTIVELY for MLOps design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mlops-engineer.md"
+    },
+    {
+      "name": "data-engineer",
+      "description": "Build robust data pipelines with ETL/ELT processes, data warehousing, and real-time streaming. Masters Apache Spark, Kafka, and modern data stack. Use PROACTIVELY for data pipeline design.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-engineer.md"
+    },
+    {
+      "name": "data-scientist",
+      "description": "Apply statistical analysis, machine learning, and data visualization to extract insights. Masters Python data stack and experimental design. Use PROACTIVELY for data science tasks.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/data-scientist.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "api-documenter",
+      "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
+    },
+    {
+      "name": "backend-security-coder",
+      "description": "Write secure backend code with authentication, authorization, and data protection built-in. Prevents injection, SSRF, and privilege escalation. Use PROACTIVELY for security-critical backend code.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-security-coder.md"
+    },
+    {
+      "name": "code-reviewer",
+      "description": "Provide thorough code reviews focusing on maintainability, security, and performance. Identifies bugs, suggests improvements, and enforces coding standards. Use PROACTIVELY for code reviews.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/code-reviewer.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "test-automator",
+      "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Use PROACTIVELY for testing automation or quality assurance.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/test-automator.md"
+    },
+    {
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Use PROACTIVELY for TDD implementation and governance.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/tdd-orchestrator.md"
+    },
+    {
+      "name": "deployment-engineer",
+      "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 8,
+    "opus": 7,
+    "haiku": 1
+  },
+  "total_skills": 16
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@shirecom.com",
+    "role_summary": "Contract Counsel \u2014 Contract drafting, agreement review, statement of work development, and contract dispute resolution.",
+    "capabilities": [
+      "Contract Drafting & Negotiation",
+      "Legal Agreement Review",
+      "Statement of Work Development",
+      "Contract Dispute Resolution"
+    ]
+  },
+  "allocation_rationale": "Sarah specializes in contract lifecycle management. Legal-advisor covers all drafting and review; risk-manager informs dispute risk analysis; business-analyst helps translate SOW requirements; docs-architect structures contract repositories; mermaid supports dispute timeline and obligation flow visualization.",
+  "skills": [
+    {
+      "name": "legal-advisor",
+      "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
+    },
+    {
+      "name": "risk-manager",
+      "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
+    },
+    {
+      "name": "docs-architect",
+      "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
+    },
+    {
+      "name": "business-analyst",
+      "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "reference-builder",
+      "description": "Create comprehensive API references and technical documentation with consistent formatting and examples. Masters documentation automation. Use PROACTIVELY for reference documentation.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/reference-builder.md"
+    }
+  ],
+  "model_distribution": {
+    "opus": 2,
+    "sonnet": 3,
+    "haiku": 2
+  },
+  "total_skills": 7
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Sophia Lane",
+    "email": "sophia.lane@shirecom.com",
+    "role_summary": "Marketing Strategist \u2014 Marketing strategy, campaign planning, analytics, and demand generation.",
+    "capabilities": [
+      "Marketing Strategy Development",
+      "Campaign Planning & Execution",
+      "Marketing Analytics & Attribution",
+      "Growth & Demand Generation Planning"
+    ]
+  },
+  "allocation_rationale": "Sophia owns the full content and campaign lifecycle. The SEO skill suite gives her complete coverage from keyword strategy through snippet optimization. Sales automator supports demand gen outreach; search-specialist backs trend analysis; mermaid supports campaign architecture diagrams.",
+  "skills": [
+    {
+      "name": "content-marketer",
+      "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
+    },
+    {
+      "name": "seo-content-writer",
+      "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-writer.md"
+    },
+    {
+      "name": "seo-content-planner",
+      "description": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-planner.md"
+    },
+    {
+      "name": "seo-content-auditor",
+      "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations. Use PROACTIVELY for content review.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-auditor.md"
+    },
+    {
+      "name": "seo-meta-optimizer",
+      "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Use PROACTIVELY for new content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-meta-optimizer.md"
+    },
+    {
+      "name": "seo-authority-builder",
+      "description": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-authority-builder.md"
+    },
+    {
+      "name": "seo-cannibalization-detector",
+      "description": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-cannibalization-detector.md"
+    },
+    {
+      "name": "seo-content-refresher",
+      "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Use PROACTIVELY for older content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-content-refresher.md"
+    },
+    {
+      "name": "seo-snippet-hunter",
+      "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks. Use PROACTIVELY for question-based content.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-snippet-hunter.md"
+    },
+    {
+      "name": "seo-structure-architect",
+      "description": "Analyzes and optimizes content structure including header hierarchy, schema markup, and internal linking. Use PROACTIVELY for content structuring.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-structure-architect.md"
+    },
+    {
+      "name": "seo-keyword-strategist",
+      "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/seo-keyword-strategist.md"
+    },
+    {
+      "name": "sales-automator",
+      "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
+    },
+    {
+      "name": "search-specialist",
+      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
+    },
+    {
+      "name": "mermaid-expert",
+      "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
+    }
+  ],
+  "model_distribution": {
+    "haiku": 10,
+    "sonnet": 4
+  },
+  "total_skills": 14
+}{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "generated_at": "2026-03-20",
+  "persona": {
+    "name": "Taylor Morgan",
+    "email": "taylor.morgan@shirecom.com",
+    "role_summary": "Automation Engineer \u2014 n8n workflow development, MCP server integration, AI agent orchestration, and workflow performance optimization.",
+    "capabilities": [
+      "n8n Workflow Development",
+      "MCP Server Integration",
+      "AI Agent Orchestration",
+      "Workflow Performance Optimization"
+    ]
+  },
+  "allocation_rationale": "Taylor builds the automation backbone of QuadCode. Python/JS/TS cover MCP server and n8n scripting needs. AI-engineer and context-manager support agent orchestration logic. API-documenter supports integration surface documentation. Performance-engineer and devops-troubleshooter address workflow optimization.",
+  "skills": [
+    {
+      "name": "python-pro",
+      "description": "Write Pythonic code with modern patterns, type hints, and performance optimization. Masters async programming and popular frameworks. Use PROACTIVELY for Python development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/python-pro.md"
+    },
+    {
+      "name": "javascript-pro",
+      "description": "Master modern JavaScript with ES2024+ features, async patterns, and runtime optimization. Handles Node.js, Deno, and browser environments. Use PROACTIVELY for JavaScript development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/javascript-pro.md"
+    },
+    {
+      "name": "typescript-pro",
+      "description": "Master TypeScript with advanced types, generics, and strict type safety. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/typescript-pro.md"
+    },
+    {
+      "name": "fastapi-pro",
+      "description": "Build high-performance FastAPI applications with async patterns, type safety, and automatic OpenAPI docs. Masters Pydantic and dependency injection. Use PROACTIVELY for FastAPI development.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/fastapi-pro.md"
+    },
+    {
+      "name": "ai-engineer",
+      "description": "Build production ML systems with MLOps pipelines, model optimization, and responsible AI practices. Masters PyTorch, TensorFlow, and modern LLM integration patterns. Use PROACTIVELY for ML system design or AI integration.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/ai-engineer.md"
+    },
+    {
+      "name": "context-manager",
+      "description": "Manage AI conversation context, memory systems, and retrieval-augmented generation. Optimizes token usage and maintains conversation coherence. Use PROACTIVELY for AI context optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/context-manager.md"
+    },
+    {
+      "name": "prompt-engineer",
+      "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
+    },
+    {
+      "name": "api-documenter",
+      "description": "Create comprehensive API documentation with OpenAPI/Swagger specs and interactive examples. Masters REST and GraphQL documentation standards. Use PROACTIVELY for API documentation tasks.",
+      "model": "haiku",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/api-documenter.md"
+    },
+    {
+      "name": "backend-architect",
+      "description": "Design scalable backend systems with microservices, event-driven architecture, and modern cloud patterns. Masters distributed systems and database optimization. Use PROACTIVELY for backend system design.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/backend-architect.md"
+    },
+    {
+      "name": "database-optimizer",
+      "description": "Optimize database performance with query tuning, indexing strategies, and execution plan analysis. Masters multiple database engines. Use PROACTIVELY for database optimization.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/database-optimizer.md"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematically diagnose and fix bugs using debugging tools, logging, and root cause analysis. Handles memory leaks, race conditions, and edge cases. Use PROACTIVELY for debugging sessions.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/debugger.md"
+    },
+    {
+      "name": "error-detective",
+      "description": "Analyze error logs, stack traces, and crash reports to identify root causes. Masters log aggregation tools and error tracking systems. Use PROACTIVELY for error investigation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/error-detective.md"
+    },
+    {
+      "name": "performance-engineer",
+      "description": "Optimize application performance with profiling, benchmarking, and capacity planning. Masters load testing and bottleneck analysis. Use PROACTIVELY for performance optimization.",
+      "model": "opus",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/performance-engineer.md"
+    },
+    {
+      "name": "deployment-engineer",
+      "description": "Automate deployment pipelines with zero-downtime strategies, rollback mechanisms, and infrastructure as code. Masters CI/CD and container orchestration. Use PROACTIVELY for deployment automation.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/deployment-engineer.md"
+    },
+    {
+      "name": "devops-troubleshooter",
+      "description": "Diagnose and resolve DevOps issues across CI/CD pipelines, infrastructure, and monitoring systems. Masters incident response and system debugging. Use PROACTIVELY for DevOps troubleshooting.",
+      "model": "sonnet",
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/devops-troubleshooter.md"
+    }
+  ],
+  "model_distribution": {
+    "sonnet": 10,
+    "opus": 4,
+    "haiku": 1
+  },
+  "total_skills": 15
+}

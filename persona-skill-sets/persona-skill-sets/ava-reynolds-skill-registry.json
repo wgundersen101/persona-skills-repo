@@ -19,67 +19,67 @@
       "name": "business-analyst",
       "description": "Translate business needs into technical requirements with user stories, workflows, and acceptance criteria. Bridges stakeholder communication. Use PROACTIVELY for requirements gathering.",
       "model": "sonnet",
-      "file_path": "business-analyst.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/business-analyst.md"
     },
     {
       "name": "risk-manager",
       "description": "Assess and mitigate technical and business risks with frameworks and quantitative analysis. Masters risk matrices and mitigation strategies. Use PROACTIVELY for risk assessment.",
       "model": "opus",
-      "file_path": "risk-manager.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/risk-manager.md"
     },
     {
       "name": "legal-advisor",
       "description": "Draft and review legal documents including privacy policies, terms of service, and contracts. Provides compliance guidance and risk assessment. Use PROACTIVELY for legal content.",
       "model": "opus",
-      "file_path": "legal-advisor.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/legal-advisor.md"
     },
     {
       "name": "search-specialist",
       "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
       "model": "haiku",
-      "file_path": "search-specialist.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/search-specialist.md"
     },
     {
       "name": "docs-architect",
       "description": "Design comprehensive documentation systems with information architecture, style guides, and content strategy. Masters technical writing and docs-as-code workflows. Use PROACTIVELY for documentation projects.",
       "model": "sonnet",
-      "file_path": "docs-architect.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/docs-architect.md"
     },
     {
       "name": "mermaid-expert",
       "description": "Create clear diagrams using Mermaid syntax for flowcharts, sequence diagrams, ERDs, and architecture visualizations. Use PROACTIVELY for diagram creation.",
       "model": "sonnet",
-      "file_path": "mermaid-expert.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/mermaid-expert.md"
     },
     {
       "name": "sales-automator",
       "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
       "model": "haiku",
-      "file_path": "sales-automator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/sales-automator.md"
     },
     {
       "name": "content-marketer",
       "description": "Create compelling marketing content including blog posts, landing pages, and email campaigns. Focuses on conversion-optimized copy and brand voice. Use PROACTIVELY for marketing content.",
       "model": "haiku",
-      "file_path": "content-marketer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/content-marketer.md"
     },
     {
       "name": "prompt-engineer",
       "description": "Design effective prompts for LLMs with clear instructions, examples, and guardrails. Masters chain-of-thought, few-shot learning, and prompt optimization. Use PROACTIVELY for prompt engineering.",
       "model": "opus",
-      "file_path": "prompt-engineer.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/prompt-engineer.md"
     },
     {
       "name": "persona-creator",
       "description": "Design AI personas with distinct voices, expertise domains, and interaction patterns for the QuadCode system. Masters prompt engineering for persona consistency.",
       "model": "opus",
-      "file_path": "persona-creator.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/persona-creator.md"
     },
     {
       "name": "hr-pro",
       "description": "Handle HR-related tasks including job descriptions, interview questions, and policy documentation. Masters hiring workflows and employee communications. Use PROACTIVELY for HR content.",
       "model": "haiku",
-      "file_path": "hr-pro.md"
+      "file_path": "https://github.com/wgundersen101/persona-skills-repo/blob/main/hr-pro.md"
     }
   ],
   "model_distribution": {
